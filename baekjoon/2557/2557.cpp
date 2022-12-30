@@ -1,6 +1,6 @@
 /*
 Hello, World C++ 풀이
-https://www.acmicpc.net/problem/2557
+https://doctcoder.tistory.com/entry/Hello-World-%ED%92%80%EC%9D%B4
 */
 #include <iostream>
 
