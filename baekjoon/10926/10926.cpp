@@ -1,6 +1,6 @@
 /*
 ??! C++ 풀이
-https://www.acmicpc.net/problem/10926
+https://doctcoder.tistory.com/entry/%ED%92%80%EC%9D%B4
 */
 #include <iostream>
 
