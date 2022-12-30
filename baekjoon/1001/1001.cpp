@@ -1,6 +1,6 @@
 /*
 A-B C++ 풀이
-https://www.acmicpc.net/problem/1001
+https://doctcoder.tistory.com/entry/A-B-%ED%92%80%EC%9D%B4
 */
 #include <iostream>
 
