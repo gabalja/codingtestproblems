@@ -1,6 +1,6 @@
 /*
-설탕 배달 C++ 풀이
-https://doctcoder.tistory.com/entry/%EC%84%A4%ED%83%95-%EB%B0%B0%EB%8B%AC-%ED%92%80%EC%9D%B4
+큰 수 A+B C++ 풀이
+https://doctcoder.tistory.com/entry/%ED%81%B0-%EC%88%98-AB-%ED%92%80%EC%9D%B4
 */
 #include <iostream>
 #include <string>
